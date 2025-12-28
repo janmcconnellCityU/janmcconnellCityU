@@ -22,7 +22,7 @@ I care a lot about clarity: clear data, clear assumptions, clear explanations. I
 
 This GitHub contains a mix of coursework, experiments, and practical examples related to data analysis and data science, including:
 
-- Python notebooks and scripts focused on data analysis, modeling, and exploration
+- Python Jupyter notebooks and R scripts focused on data analysis, modeling, and exploration
 - SQL and data preparation work
 - Examples of analytical thinking applied to real or realistic problems
 - Work that emphasizes clarity, documentation, and reproducibility over clever shortcuts
