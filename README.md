@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 I am a business analyst completing an MS in Data Science (March 2026). My work focuses on structured analysis of operational and financial data using Python, SQL, Excel, and Power BI. I build reproducible workflows that turn messy, relational data into interpretable signals for decision support.
 
