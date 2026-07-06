@@ -39,7 +39,6 @@ I care a lot about clarity: clear data, clear assumptions, clear explanations. I
 ## 🔗 Links
 
 - LinkedIn: https://www.linkedin.com/in/janmcconnell/
-- Examples and work samples: https://bizdatadriven.com/examples/
 
 ## 🧭 Analytical Philosophy
 - Clarity over complexity
